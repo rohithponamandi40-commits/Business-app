@@ -1,0 +1,23 @@
+.container-fluid {
+    background-color: lightcyan;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.dot h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-left: 65px;
+    font-weight: bolder;
+    font-style: normal;
+    letter-spacing: +0.2px;
+
+}
+
+.dot img {
+    width: 400px;
+}

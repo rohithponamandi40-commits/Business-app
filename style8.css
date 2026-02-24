@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.more {
+    min-height: 100vh;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.more1 h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    font-style: normal;
+    letter-spacing: +0.8px;
+}
+
+.more2 button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    letter-spacing: +0.4px;
+    width: 160px;
+    height: 40px;
+    border: none;
+}
